@@ -209,6 +209,7 @@ ul {
   list-style: none;
   gap: 30px;
   padding: 0;
+  margin: 0;
 }
 
 h1,
@@ -277,7 +278,7 @@ figure {
 }
 
 .lorem-work .work-head {
-  padding-top: 94px;
+  margin-top: 94px;
 }
 
 .team-card {
